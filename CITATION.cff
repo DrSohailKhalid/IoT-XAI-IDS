@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this software record."
+title: "Reference implementation for Enhancing IoT Security with Metaheuristic-Optimized Explainable AI Models for Intrusion Detection"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Khalid
+    given-names: Sohail
+    affiliation: University of Management and Technology, Lahore, Pakistan
+  - family-names: Rehman
+    given-names: Mujeeb Ur
+    affiliation: De Montfort University, Leicester, UK
+  - family-names: Abrar
+    given-names: Muhammad
+    affiliation: De Montfort University, Leicester, UK
+  - family-names: Algarni
+    given-names: Fahad
+    affiliation: University of Bisha, Bisha, Saudi Arabia
+  - family-names: Ullah
+    given-names: Insaf
+    affiliation: University of Essex, Colchester, UK
+license: MIT
+keywords:
+  - intrusion detection
+  - IoT security
+  - explainable AI
+  - SHAP
+  - LIME
+  - genetic algorithm
+  - particle swarm optimization
+  - ResDNN

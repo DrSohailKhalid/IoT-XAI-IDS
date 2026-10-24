@@ -1,0 +1,40 @@
+{
+  "title": "Reference implementation for Enhancing IoT Security with Metaheuristic-Optimized Explainable AI Models for Intrusion Detection",
+  "upload_type": "software",
+  "description": "Reference implementation and configuration files for an IoT intrusion-detection workflow with dataset harmonization, partition-first preprocessing, training-only imputation, scaling, feature screening and SMOTE, ResDNN/CNN/RNN models, held-out evaluation, SHAP/LIME explanation, and offline GA/PSO tuning of explainer configurations.",
+  "creators": [
+    {
+      "name": "Khalid, Sohail",
+      "affiliation": "University of Management and Technology, Lahore, Pakistan"
+    },
+    {
+      "name": "Rehman, Mujeeb Ur",
+      "affiliation": "De Montfort University, Leicester, UK"
+    },
+    {
+      "name": "Abrar, Muhammad",
+      "affiliation": "De Montfort University, Leicester, UK"
+    },
+    {
+      "name": "Algarni, Fahad",
+      "affiliation": "University of Bisha, Bisha, Saudi Arabia"
+    },
+    {
+      "name": "Ullah, Insaf",
+      "affiliation": "University of Essex, Colchester, UK"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "IoT security",
+    "intrusion detection",
+    "explainable AI",
+    "SHAP",
+    "LIME",
+    "genetic algorithm",
+    "particle swarm optimization",
+    "ResDNN"
+  ],
+  "version": "1.0.0"
+}
